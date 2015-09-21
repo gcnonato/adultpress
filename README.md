@@ -13,3 +13,4 @@ We will employ and customise already used solutions such as:
   * [Composer](https://github.com/composer/composer)
 
 This project will be documented in the [wiki](https://github.com/AdultStack/adultpress/wiki).
+
