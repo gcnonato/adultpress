@@ -4,4 +4,4 @@
 
 If you are wanting to setup your installation with the main theme provided and would like to add dummy content to mimic the AdultPress demo site then follow these instructions:
 
-{Insert instructions here}
+{insert instructions here}
